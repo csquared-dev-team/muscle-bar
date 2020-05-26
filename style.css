@@ -36,10 +36,13 @@ height: 100%;
 
 #navbar a:hover {
   color: rgba(255,173,51,0.8);
+  text-decoration: underline;
+  text-underline-position: under
 }
 
-#navbar a.active {
+#navbar a:active {
   font-family: 'Open Sans', sans-serif;
+  color: rgba(255,173,51,0.8);
 }
 
 .content {
