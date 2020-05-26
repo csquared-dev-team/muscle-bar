@@ -8,6 +8,8 @@
   text-align: center;
   outline: none;
   text-decoration: none;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 150%;
 }
 
 .btn-one:hover,
@@ -20,12 +22,14 @@
   display: inline-block;
   width: 10%;
   float: right;
-  padding: 8px;
+  padding: 3px;
   color: #fff;
   border: 1px solid #fff;
   text-align: center;
   outline: none;
   text-decoration: none;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 150%;
 }
 
 .btn-two:hover,
@@ -38,12 +42,14 @@
   display: inline-block;
   width: 20%;
   float: right;
-  padding: 8px;
+  padding: 3px;
   color: #fff;
   border: 1px solid #fff;
   text-align: center;
   outline: none;
   text-decoration: none;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 150%;
 }
 
 .btn-three:hover,
@@ -54,16 +60,20 @@
 
 .btn-four {
   display: inline-block;
-  width: 25%;
+  width: 20%;
   float: right;
-  padding: 8px;
+  padding: 3px;
   color: #fff;
   border: 1px solid #fff;
   text-align: center;
   outline: none;
   text-decoration: none;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 150%;
 }
 
 .btn-four:hover,
 .btn-four:active {
-  bac
+  background-color: #fff;
+  color: #000;
+}
