@@ -5,7 +5,9 @@ body {
 .container {
   width: 100%;
   height: 100%;
-  background: aqua;
+  background-image: url('test.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
   margin: auto;
 }
 
@@ -13,7 +15,7 @@ body {
   position: relative;
   width: 100%;
   height: 20%;
-  background: green;
+  background: rgba(0,0,255,0.8);
   margin: auto;
 }
 
