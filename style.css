@@ -24,14 +24,14 @@ body {
 .one {
   width: 59%;
   height: 100%;
-  background: rgba(255,0,0,0.8);
+  background: rgba(255,0,0,0.8);   /* Remove this line to see preview */
   float: left;
 }
 
 .two {
   width: 38%;
   height: 100%;
-  background: rgba(0,0,0,0.8);
+  background: rgba(0,0,0,0.8);    /* Remove this line to see preview */
   float: right;
 }
 

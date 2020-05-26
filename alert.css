@@ -5,11 +5,11 @@
 }
 
 .closebtn {
-  margin-left: 15px;
+  margin: auto;
   color: white;
   font-weight: bold;
   float: right;
-  font-size: 22px;
+  font-size: 1.3em;
   line-height: 20px;
   cursor: pointer;
   transition: 0.3s;
