@@ -1,0 +1,32 @@
+body {
+  background-color: #eee;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  background: aqua;
+  margin: auto;
+}
+
+.container1 {
+  position: relative;
+  width: 100%;
+  height: 20%;
+  background: green;
+  margin: auto;
+}
+
+.one {
+  width: 59%;
+  height: 100%;
+  background: red;
+  float: left;
+}
+
+.two {
+  width: 38%;
+  height: 100%;
+  background: black;
+  float: right;
+}
