@@ -31,8 +31,8 @@ body {
 .logo {
   width: 50%;
   margin: 65% 0%;
-  position: relative;
   height: 35%;
+  position: static;
   background: rgba(0,0,255,0.8);   /* Remove this line to see preview */
 }
 
