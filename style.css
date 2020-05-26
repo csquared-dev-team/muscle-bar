@@ -34,13 +34,24 @@ height: 100%;
   font-family: 'Open Sans', sans-serif;
 }
 
+#navbar p {
+  float: right;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+}
+
 #navbar a:hover {
   color: rgba(255,173,51,0.8);
   text-decoration: underline;
   text-underline-position: under
 }
 
-#navbar a:active {
+#navbar a.active {
   font-family: 'Open Sans', sans-serif;
   color: rgba(255,173,51,0.8);
 }
