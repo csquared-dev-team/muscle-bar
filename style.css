@@ -17,19 +17,21 @@ height: 100%;
 
 #navbar {
   overflow: hidden;
-  background-color: #333;
-  width: 100%
+  background-color: #FFFF;
+  width: 100%;
+  height: 10%;
+  vertical-align: middle
 }
 
 #navbar a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #000000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-
+  font-family: 'Open Sans', sans-serif;
 }
 
 #navbar a:hover {
@@ -38,8 +40,9 @@ height: 100%;
 }
 
 #navbar a.active {
-  background-color: #4CAF50;
-  color: white;
+  background-color: #000000;
+  color: rgba(255,173,51,0.8);
+  font-family: 'Open Sans', sans-serif;
 }
 
 .content {
@@ -69,7 +72,6 @@ height: 100%;
 .one {
   width: 59%;
   height: 100%;
-  background: rgba(255,0,0,0.8);   /* Remove this line to see preview */
   float: left;
 }
 
@@ -84,7 +86,6 @@ height: 100%;
 .two {
   width: 40%;
   height: 100%;
-  background: rgba(0,0,0,0.8);    /* Remove this line to see preview */
   float: right;
 }
 
@@ -150,7 +151,7 @@ height: 100%;
     font-family: 'Open Sans', sans-serif;
     font-size: 2vw;
     transform: rotate(-90deg);
-    
+
 }
 
 .mpy h4{
