@@ -1,0 +1,69 @@
+.btn-one {
+  display: inline-block;
+  width: 10%;
+  float: right;
+  padding: 8px;
+  color: #fff;
+  border: 1px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+}
+
+.btn-one:hover,
+.btn-one:active {
+  background-color: #fff;
+  color: #000;
+}
+
+.btn-two {
+  display: inline-block;
+  width: 10%;
+  float: right;
+  padding: 8px;
+  color: #fff;
+  border: 1px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+}
+
+.btn-two:hover,
+.btn-two:active {
+  background-color: #fff;
+  color: #000;
+}
+
+.btn-three {
+  display: inline-block;
+  width: 20%;
+  float: right;
+  padding: 8px;
+  color: #fff;
+  border: 1px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+}
+
+.btn-three:hover,
+.btn-three:active {
+  background-color: #fff;
+  color: #000;
+}
+
+.btn-four {
+  display: inline-block;
+  width: 25%;
+  float: right;
+  padding: 8px;
+  color: #fff;
+  border: 1px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+}
+
+.btn-four:hover,
+.btn-four:active {
+  bac
