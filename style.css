@@ -34,15 +34,14 @@ height: 100%;
   font-family: 'Open Sans', sans-serif;
 }
 
-#navbar p {
+#navbar1 a {
   float: right;
-  display: block;
   color: #000000;
   text-align: center;
-  padding: 14px 16px;
   text-decoration: none;
   font-size: 12px;
   font-family: 'Open Sans', sans-serif;
+
 }
 
 #navbar a:hover {
@@ -53,7 +52,6 @@ height: 100%;
 
 #navbar a.active {
   font-family: 'Open Sans', sans-serif;
-  color: rgba(255,173,51,0.8);
 }
 
 .content {
@@ -168,7 +166,7 @@ height: 100%;
 .mpy h4{
     color: white;
     margin: 350 0 0 50;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Righteous', cursive;
     font-size: 2em;
     background:rgba(0,0,0,0) ;
 }
