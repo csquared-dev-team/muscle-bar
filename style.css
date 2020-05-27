@@ -32,6 +32,7 @@ height: 100%;
 
 .topnav a:hover {
   color: rgba(255,173,51,0.8);
+  background-color:  green;
 
 }
 
@@ -83,7 +84,7 @@ height: 100%;
 .container {
   width: 100%;
   height: 100%;
-  background-image: url('untitled--2.jpg');
+  background: url('untitled--2.jpg')no-repeat center center fixed;
   background-size: cover;
   background-repeat: no-repeat;
   margin:  auto;
